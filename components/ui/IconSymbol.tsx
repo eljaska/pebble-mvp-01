@@ -11,7 +11,7 @@ const MAPPING = {
   // See SF Symbols in the SF Symbols app on Mac or https://hotpot.ai/free-icons
   'house.fill': 'home',
   'mic.fill':'mic',
-  'square.and.pencil':'edit-square',
+  'doc.text.fill':'description',
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
